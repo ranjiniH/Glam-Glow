@@ -1,0 +1,8 @@
+contact.html
+<html>
+<head>
+<title>cotact</title>
+<body bgcolor=''pink''>
+<p> department of computer science &engg. <br>govt.polytechnic koppal</p>
+</body>
+<html>
